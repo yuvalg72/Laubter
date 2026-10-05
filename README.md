@@ -1,3 +1,15 @@
+## Fork provenance
+
+This repository is a fork of [ArielLaub/Laubter](https://github.com/ArielLaub/Laubter). Original authorship belongs to the upstream project and its contributors; this repository does not claim first-party authorship of inherited work.
+
+- **Local purpose:** Reference snapshot of the upstream Laubter OpenWrt, ASUS mesh, and Home Assistant dashboard project.
+- **Local changes:** Before this notice, GitHub reported this fork as **0 commits ahead / 9 commits behind** the direct upstream branch. This documentation notice is the local change introduced by this PR.
+- **Sync model:** Snapshot/reference fork. Upstream synchronization is explicit and must not be assumed automatically.
+- **License and attribution:** GitHub currently reports no detected SPDX license for this repository. This notice does not grant additional reuse rights; applicable upstream terms must be verified before redistribution.
+- **Links and project claims:** Screenshots, architecture, installation, service, roadmap, and project claims below belong to the upstream project unless explicitly identified as local.
+
+---
+
 # Laubter
 
 An opinionated web UI that ties together **OpenWrt**, **ASUS ZenWiFi mesh**, and **Home Assistant** into a single dashboard — with a curated set of self-hosted services (WireGuard VPN, AdGuard Home, DuckDNS) managed through a clean, dark-themed interface.
